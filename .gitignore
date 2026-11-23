@@ -1,0 +1,10 @@
+# Public GitHub repository: only the current materials are published.
+# Old versions (they contain internal Word comments) and source documents stay private.
+versions/
+Nastavni_plan_*.docx
+Prilog_*.pdf
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
